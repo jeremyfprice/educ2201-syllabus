@@ -15,7 +15,13 @@ Being present is important to success in this class. Attendance will be taken at
 
 ## Maintain an Even Pace by Submitting Your Work
 
-
+| Time Late | Consequence |
+|-----------|-------------|
+| 1-24 Hours | 5% deduction off performance score |
+| 2-3 Days | 10% deduction off performance score |
+| 4-5 Days | 15% deduction off performance score |
+| 6-7 Days | 20% deduction off performance score |
+| More Than 7 Days | You will receive no points for your performance score, but you will receive your earned badge.
 
 ## Keeping the Learning Going by Reviewing Your Feedback
 
