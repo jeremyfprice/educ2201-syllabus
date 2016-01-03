@@ -23,11 +23,8 @@ You will be writing a *Reflection Tweet* each week. You won't be using Twitter t
 
 The task of each Learning Tweet will be provided in TaskStream. The structure of the general Learning Tweet that focuses on something from the class that surprised you will follow the \texttt{Moment of Surprise}, \texttt{Why It Was Surprising}, and \texttt{What This Tells Me} format:
 
-\begin{itemize}
-	\itemsep-0.5em
-	\item \texttt{Moment of Surprise:} a short summary of the reading, discussion, or activity you are writing about;
-	\item \texttt{Why It Was Surprising:} a short description of what about the reading, discussion, or activity caught your attention, surprised or intrigued you;
-	\item \texttt{What This Tells Me:} your "take away" from this surprise, what you learned, how your perspective has changed.
-\end{itemize}
+* **Moment of Surprise:** a short summary of the reading, discussion, or activity you are writing about;
+* **Why It Was Surprising:** a short description of what about the reading, discussion, or activity caught your attention, surprised or intrigued you;
+* **What This Tells Me:** your "take away" from this surprise, what you learned, how your perspective has changed.
 
 The Learning Tweets allow you to make sense of your experiences and gives me a sense of what you are taking away from the class. I often readjust my teaching based on what students tell me through the Surprise Tweets. Keeping track of these "surprises" is a form of ongoing reflection and is an essential component of learning and teaching. We will be reading a short article on surprises in learning during the first week.
