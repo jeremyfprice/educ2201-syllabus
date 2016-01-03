@@ -2,7 +2,6 @@
 
 ~ Image ~
 
----
 
 ## A Commitment to Universal Learning
 
