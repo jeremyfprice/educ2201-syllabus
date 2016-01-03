@@ -21,6 +21,6 @@
    * [Unit 3](unit_3.md)
    * [Unit 4](unit_4.md)
 * Appendix
-   * Fairmont State University Policies
+   * [Fairmont State University Policies](fairmont_state_university_policies.md)
    * Digital Tool Passwords
 
