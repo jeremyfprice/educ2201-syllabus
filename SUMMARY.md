@@ -14,7 +14,7 @@
    * [Curricular Units and Culminating Performances](curricular_units_and_culminating_performances.md)
    * [Performance Score Breakdown](performance_score_breakdown.md)
 * Course Schedule
-   * [Schedule Summary](schedule_summary.md)
+   * [Schedule Summary](schedule-summary.md)
    * [Unit 0](unit_0.md)
    * [Unit 1](unit_1.md)
    * [Unit 2](unit_2.md)
