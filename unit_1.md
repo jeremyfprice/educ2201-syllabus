@@ -26,4 +26,4 @@
 
 ### Performances
 * Feedback from Writing Center Completed by Friday, September 11
-* Culminating Writing Performance Due Monday, August 24
+* **Culminating Writing Performance Due Monday, August 24**
