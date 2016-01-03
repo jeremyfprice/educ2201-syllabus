@@ -17,7 +17,7 @@
    * [Schedule Summary](schedule_summary.md)
    * [Unit 0](unit_0.md)
    * [Unit 1](unit_1.md)
-   * Unit 2
+   * [Unit 2](unit_2.md)
    * Unit 3
    * Unit 4
 * Appendix
