@@ -4,6 +4,8 @@ Welcome to EDUC2201, Teaching with Technology. This document is the syllabus[^1]
 
 **"Teaching is two-parts planning, one-part reflection, and extra heavy on the experimentation." ~ Rebecca Alber**
 
+**"It seems to me that that, finally, is what good teaching is all about.... Somehow or another, skill and knowledge are integrated into some kind of a human connection." ~ Mike Rose**
+
 ----
 
 ##Get to Know Your Professor
