@@ -10,6 +10,7 @@
    * [What are Performances of Understanding?](what_are_performances_of_understanding.md)
    * [Become a Scholar by Building Your Metacognitive Skills](become_a_scholar_by_building_your_metacognitive_sk.md)
    * [Reflection Write-Ups](reflection_write-ups.md)
+   * Curricular Units and Culminating Performances
 * Course Schedule
    * Unit 0
 * Appendix
