@@ -23,4 +23,5 @@
     * The Longer View: EdTech and 21st-Century Education (http://goo.gl/iuJk59)
     * Are Kids Really Motivated by Technology? (http://goo.gl/s3orWi)
 * Performances
+    * Feedback from Writing Center Completed by Friday, September 11
     * Culminating Writing Performance Due Monday, August 24
