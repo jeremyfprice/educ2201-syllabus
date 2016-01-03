@@ -15,7 +15,7 @@
 * ScreenChomp (http://www.techsmith.com/screenchomp.html)
 
 ### Performances
-* Syllabus "Quiz" Due Monday, August 24
+* **Syllabus "Quiz" Due Monday, August 24**
 
 ## Week of `weekthree`
 
