@@ -14,4 +14,7 @@ Being present is important to success in this class. Attendance will be taken at
 
 We learn best when we converse with others about ideas and concepts, and participation is an important practice for success in university academic life in general. Ongoing participation is an important and required practice in this course. See the Course Tools and Practices document for more information.
 
-##
+## Take Knowledge from Class to Projects by Taking Notes
+
+I will be asking you to cite specific information from class and from the readings in your Reflection Write-Ups for your Performances of Understandings. Taking notes will help you to refer back to our discussions and use them in your Reflection Write-Ups. An important part of becoming a successful learner is moving ideas from one context to another, and I hope that this process will help you build some of the same practices with your own students in the future. See the Course Tools and Practices document for more information.
+
