@@ -5,7 +5,7 @@ Welcome to EDUC2201, Teaching with Digital Media and Technology. We will be expl
 
 ---
 
->Teaching is two-parts planning, one-part reflection, and extra heavy on the experimentation. ~ Rebecca Alber
+>*Teaching is two-parts planning, one-part reflection, and extra heavy on the experimentation. ~ Rebecca Alber*
 
 ---
 
