@@ -1,4 +1,20 @@
 # Unit 0: Getting Situated and Started
 
+## Week of \weekone
 
 
+\begin{tabsched}
+	\tabpq & What are some of the rules of the "program" for "doing school"? \\
+	& Should an effort be made to "deprogram" students from "doing school"? \\
+	& What does the author mean by "surprise," and why is surprise important for learning? \\
+	& Which components of a reflective classroom have you seen? \\
+	\midrule
+	\tabread & How Deprogramming Kids From How To Do School Could Improve Learning (\url{http://goo.gl/pnkkRM}) \\
+	& Surprise Journal: Notice the Unexpected (\url{http://goo.gl/h2ESqJ}) \\
+	& 8 Components of a Reflective Classroom (\url{http://bit.ly/1OXeCrp}) \\
+	\midrule
+	\tabtools & TaskStream (\url{https://www.taskstream.com/}) \\
+	& Microsoft Word 365 \\
+	\midrule
+	\tabtweet
+\end{tabsched}
