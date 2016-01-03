@@ -2,4 +2,5 @@
 
 * [Cover Page](README.md)
 * [Course Contract](course_contract.md)
+* Becoming a Teaching Superhero
 
