@@ -1,7 +1,7 @@
 # Intermediate and Culminating Performances of Understanding Due Dates}
 
 | *Unit* | *Performance* | *Due Date* |
-|:------:|---------------|------------|
+|:------:|---------------|-----------:|
 | **0** | **Syllabus "Quiz"** | **August 25** |
 | 1 | Writing Center Feedback Intermediate Performance | September 11 |
 | **1** | **Argument Paper Culminating Performance** | **September 18** |
