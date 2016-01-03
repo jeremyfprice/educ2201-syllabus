@@ -1,5 +1,11 @@
 Welcome to EDUC2201, Teaching with Technology. This document is the syllabus[^1] for the course. We will be exploring the different ways that technology can be used to support learning, understanding, and creativity in the classroom or in other types of learning environments. We will be paying special attention to the role that you play as facilitator and intentional designer of materials and of the environment to encourage learning, understanding, and creativity.
 
+----
+
+**Quote**
+
+----
+
 ##Get to Know Your Professor
 
 | Name: | **Dr. Jeremy Price** |
