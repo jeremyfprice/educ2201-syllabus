@@ -11,6 +11,5 @@
 | 3 | Diversity Poster for Printing | October 23 |
 | **3** | **Diversity Poster Culminating Performance** | October 30 |
 | 4 | Prezi Teaching for Understanding Map Intermediate Performance  | November 13 |
-| 4 | 
-	& WebQuest Culminating Performance & December 4 \\
-	\bottomrule
+| 4 | Teaching for Understanding/WebQuest Conferences Intermediate Performance | Blah |
+| **4** | **WebQuest Culminating Performance** | **December 4** |
