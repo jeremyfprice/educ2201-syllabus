@@ -18,6 +18,7 @@
    * [Unit 0](unit_0.md)
    * Unit 1
    * Unit 2
+   * Unit 3
 * Appendix
    * Fairmont State University Policies
    * Digital Tool Passwords
