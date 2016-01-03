@@ -19,6 +19,7 @@
    * Unit 1
    * Unit 2
    * Unit 3
+   * Unit 4
 * Appendix
    * Fairmont State University Policies
    * Digital Tool Passwords
