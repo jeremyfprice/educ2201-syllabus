@@ -14,9 +14,6 @@
 * Padlet (https://padlet.com/)
 * ScreenChomp (http://www.techsmith.com/screenchomp.html)
 
-### Performances
-* **Syllabus "Quiz" Due Monday, August 24**
-
 ## Week of `weekthree`
 
 * Priming Questions
