@@ -10,9 +10,9 @@
    * [What are Performances of Understanding?](what_are_performances_of_understanding.md)
    * [Become a Scholar by Building Your Metacognitive Skills](become_a_scholar_by_building_your_metacognitive_sk.md)
    * [Reflection Write-Ups](reflection_write-ups.md)
+   * [Seeing Learning Build with Badges](seeing_learning_build_with_badges.md)
    * [Curricular Units and Culminating Performances](curricular_units_and_culminating_performances.md)
    * [Performance Score Breakdown](performance_score_breakdown.md)
-   * [Seeing Learning Build with Badges](seeing_learning_build_with_badges.md)
 * Course Schedule
    * Unit 0
    * Summary
