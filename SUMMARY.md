@@ -21,7 +21,7 @@
    * [Unit 3](unit_3.md)
    * [Unit 4](unit_4.md)
 * Appendix
-   * [Fairmont State Teacher Education Framework](fairmont_state_teacher_education_framework.md)
+   * [Fairmont State School of Education Conceptual Framework](fairmont_state_teacher_education_framework.md)
    * [Fairmont State University Policies](fairmont_state_university_policies.md)
    * Digital Tool Passwords
 
