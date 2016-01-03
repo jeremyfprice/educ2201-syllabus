@@ -8,5 +8,10 @@ Any student with particular needs should contact the coordinator of Disability S
 
 ## Improve Your Chances for Success by Coming to Class Every Day
 
-Being present is important to success in this class. Attendance will be taken at every class, both as a way to help me learn your names and as a way to help you stay on track with attendance. At times, your Warm-Up or Check-Out may be used as a marker of attendance.
+Being present is important to success in this class. Attendance will be taken at every class, both as a way to help me learn your names and as a way to help you stay on track with attendance. At times, your Warm-Up or Check-Out may be used as a marker of attendance. See the Course Tools and Practices document for more information.
 
+## Participate Effectively to Get More Out of Class Time
+
+We learn best when we converse with others about ideas and concepts, and participation is an important practice for success in university academic life in general. Ongoing participation is an important and required practice in this course. See the Course Tools and Practices document for more information.
+
+##
