@@ -13,7 +13,9 @@ Blah
 
 Blah
 
+### Design Challenges
 
+Blah
 
 ### Reflection Tweets
 You will be writing a "Learning Tweet" each week. You won't be using Twitter to write your tweets (you will be writing it directly to me using \texttt{TaskStream}), \marginnote{Your Learning Tweet should be a little longer than the typical tweet on Twitter: no less than three sentences.}but just like Twitter your Learning Tweet will be on the short side. You will be asked to post a Learning Tweet during some weeks directly on the readings, some weeks on class discussions, and some weeks on anything from class that surprised you. \emph{Make sure that your Learning Tweets have something to do with \textbf{this} class}.
