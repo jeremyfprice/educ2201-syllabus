@@ -13,9 +13,11 @@ Any student with particular needs should contact the coordinator of Disability S
 
 Being present is important to success in this class. Attendance will be taken at every class, both as a way to help me learn your names and as a way to help you stay on track with attendance. At times, your Warm-Up or Check-Out may be used as a marker of attendance. Contact me, preferably before class, if you have a legitimate reason for not coming to class. See the Course Tools and Practices document for more information.
 
-# Maintain an Even Pace by Submitting Your Work
+## Maintain an Even Pace by Submitting Your Work
 
-# Keeping the Learning Going by Reviewing Your Feedback
+
+
+## Keeping the Learning Going by Reviewing Your Feedback
 
 Making adjustments to your work is part of the learning process. There is also a possibility that you did not fulfill the requirements of the task or you did not "level up"; in this case, I will ask you to revise and resubmit your work through TaskStream. **If you don't check TaskStream and look at your feedback, you won't know this.**
 
