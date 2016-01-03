@@ -22,8 +22,5 @@
 * Readings
     * The Longer View: EdTech and 21st-Century Education (http://goo.gl/iuJk59)
     * Are Kids Really Motivated by Technology? (http://goo.gl/s3orWi)
-* Tools
-    * Padlet (https://padlet.com/)
-    * ScreenChomp (http://www.techsmith.com/screenchomp.html)
 * Performances
-    * Syllabus "Quiz" Due Monday, August 24
+    * Culminating Writing Performance Due Monday, August 24
