@@ -12,4 +12,5 @@
    * [Reflection Write-Ups](reflection_write-ups.md)
 * Course Schedule
    * Unit 0
+* Appendix
 
