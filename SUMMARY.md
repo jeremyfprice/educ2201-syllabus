@@ -23,4 +23,5 @@
 * Appendix
    * [Fairmont State University Policies](fairmont_state_university_policies.md)
    * Digital Tool Passwords
+   * Fairmont State Teacher Education Framework
 
