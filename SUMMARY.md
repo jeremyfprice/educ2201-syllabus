@@ -6,7 +6,7 @@
 * [Course Practices and Routines](course_practices_and_routines.md)
    * [Universal Learning](universal_learning.md)
    * Improve Your Chances for Success by Coming to Class Every Day
-   * Maintain an Even Pace by Submitting Your Work
+   * [Maintain an Even Pace by Submitting Your Work](maintain_an_even_pace_by_submitting_your_work.md)
    * [Keeping the Learning Going by Reviewing Your Feedback](keeping_the_learning_going_by_reviewing_your_feedb.md)
 * [Performances of Understanding](performances_of_understanding.md)
    * [What are Performances of Understanding?](what_are_performances_of_understanding.md)
