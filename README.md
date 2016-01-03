@@ -2,7 +2,7 @@ Welcome to EDUC2201, Teaching with Technology. This document is the syllabus[^1]
 
 ----
 
-**Quote**
+**"Teaching is two-parts planning, one-part reflection, and extra heavy on the experimentation." ~ Rebecca Alber**
 
 ----
 
