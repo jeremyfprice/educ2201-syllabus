@@ -16,12 +16,14 @@
 
 ## Week of `weekthree`
 
-* Priming Questions
-    * According to Tom Whitby, what are the differences between *then* and *now*?
-    * What is the advice Bill Ferriter gives to help make students more engaged in learning with technology?
-* Readings
-    * The Longer View: EdTech and 21st-Century Education (http://goo.gl/iuJk59)
-    * Are Kids Really Motivated by Technology? (http://goo.gl/s3orWi)
-* Performances
-    * Feedback from Writing Center Completed by Friday, September 11
-    * Culminating Writing Performance Due Monday, August 24
+### Priming Questions
+* According to Tom Whitby, what are the differences between *then* and *now*?
+* What is the advice Bill Ferriter gives to help make students more engaged in learning with technology?
+
+### Readings
+* The Longer View: EdTech and 21st-Century Education (http://goo.gl/iuJk59)
+* Are Kids Really Motivated by Technology? (http://goo.gl/s3orWi)
+
+### Performances
+* Feedback from Writing Center Completed by Friday, September 11
+* Culminating Writing Performance Due Monday, August 24
