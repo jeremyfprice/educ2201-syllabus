@@ -8,6 +8,7 @@ It is  necessary to be very mindful of your use of time in this course. This cla
 
 As such, to maintain your momentum, it is important to keep up with the work and submit your work on time. All work is due in TaskStream on the date posted by Pumpkin Hour (11:59pm). Work may be turned in up to seven days late **with consequences** (see the table below).
 
+Reflection Performances, because they are completed in class and are also a way for me to take attendance, **cannot** be turned in late.
 
 
 | Time Late        | Consequence                         |
