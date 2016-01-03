@@ -17,7 +17,7 @@ Welcome to EDUC2201, Teaching with Technology. This document is the syllabus[^1]
 
 *Psst:* **Email is the best way to contact me.**
 
-Visit me during my student drop-in hours:
+###Visit me during my student drop-in hours:
 
 | Day | Morning | Afternoon |
 |---|---|---|
