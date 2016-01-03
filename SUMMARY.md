@@ -1,5 +1,5 @@
 # Summary
 
 * [Cover Page](README.md)
-* Course Contract
+* [Course Contract](course_contract.md)
 
