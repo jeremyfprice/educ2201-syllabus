@@ -19,7 +19,7 @@
    * [Unit 1](unit_1.md)
    * [Unit 2](unit_2.md)
    * [Unit 3](unit_3.md)
-   * Unit 4
+   * [Unit 4](unit_4.md)
 * Appendix
    * Fairmont State University Policies
    * Digital Tool Passwords
