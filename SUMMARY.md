@@ -17,6 +17,7 @@
    * [Schedule Summary](schedule_summary.md)
    * [Unit 0](unit_0.md)
    * Unit 1
+   * Unit 2
 * Appendix
    * Fairmont State University Policies
    * Digital Tool Passwords
