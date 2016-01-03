@@ -2,6 +2,8 @@
 
 ~ Image ~
 
+---
+
 ## A Commitment to Universal Learning
 
 *I am committed to the principle of universal learning.* This means that our classroom, our virtual spaces, our practices, and our interactions be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning.
@@ -11,4 +13,6 @@ Any student with particular needs should contact the coordinator of Disability S
 ## Improve Your Chances for Success by Coming to Class Every Day
 
 Being present is important to success in this class. Attendance will be taken at every class, both as a way to help me learn your names and as a way to help you stay on track with attendance. At times, your Warm-Up or Check-Out may be used as a marker of attendance. Contact me, preferably before class, if you have a legitimate reason for not coming to class. See the Course Tools and Practices document for more information.
+
+# Maintain an Even Pace by Submitting Your Work
 
