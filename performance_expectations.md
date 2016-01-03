@@ -4,9 +4,11 @@ This course does not have any "real" tests, with the exception of the occasional
 
 ## Maintain an Even Pace by Submitting Your Work
 
-It is  necessary to be very mindful of your use of time in this course. This class is a marathon, not a sprint: you *cannot* succeed by cramming, as you may be able to do with courses that rely on tests.
+It is  necessary to be very mindful of your use of time in this course. This class is a marathon, not a sprint: you *cannot* succeed by cramming for exams in this course, as you may be able to do with courses that rely on tests.
 
-As such, to maintain your momentum, it is important to keep up with the work and submit your work on time. All work is due on the date posted by Pumpkin Hour (11:59pm). Work may be turned in 
+As such, to maintain your momentum, it is important to keep up with the work and submit your work on time. All work is due in TaskStream on the date posted by Pumpkin Hour (11:59pm). Work may be turned in up to seven days late **with consequences** (see the table below).
+
+
 
 | Time Late        | Consequence                         |
 |------------------|-------------------------------------|
