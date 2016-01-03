@@ -1,5 +1,7 @@
 # Becoming a Teaching Superhero
 
+~ Image ~
+
 I want to help you to become teaching superheroes with technology. The children and young adults with whom you will be working deserve nothing less. In order to help you get there, we will be supporting you along the way to develop the practices and routines, digital tools, and knowledge for teaching necessary to be teaching superheroes with technology and getting accepted into the Teacher Education Program in the School of Education, Health and Human Performance at Fairmont State University. We will work hard together to accomplish that goal.
 
 ##Course Throughlines
