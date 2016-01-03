@@ -4,6 +4,7 @@
 
 ## Warm-Ups and Check-Outs
 
+Blah. Attendance.
 
 ### Warm-Up Activities
 
