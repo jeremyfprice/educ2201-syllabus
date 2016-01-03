@@ -18,3 +18,8 @@ We learn best when we converse with others about ideas and concepts, and partici
 
 I will be asking you to cite specific information from class and from the readings in your Reflection Write-Ups for your Performances of Understandings. Taking notes will help you to refer back to our discussions and use them in your Reflection Write-Ups. An important part of becoming a successful learner is moving ideas from one context to another, and I hope that this process will help you build some of the same practices with your own students in the future. See the Course Tools and Practices document for more information.
 
+## Stay Current by Keeping In Touch Outside of Class
+
+Communications between me and you outside of class will occur over email. **Do not send me messages through Blackboard**. All feedback through TaskStream will also be delivered through your Fairmont State email account.
+
+Please make sure to *check your Fairmont State email on a regular basis* (at least 4-5 times per week). If you do not have a smart phone, a computer or internet access at home or in your dorm room, make it a regular practice to go to the library and check your email there.
