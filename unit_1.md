@@ -6,8 +6,10 @@
     * According to Grant Wiggins, what are the differences between an argument and a persuasive essay?
     * According to John Spencer, how is it about the technology?
 * Readings
-    * How Deprogramming Kids From How To Do School Could Improve Learning (\url{http://goo.gl/pnkkRM})
-    * Surprise Journal: Notice the Unexpected (\url{http://goo.gl/h2ESqJ})
-    * 8 Components of a Reflective Classroom (\url{http://bit.ly/1OXeCrp})
+    * Argument—the Core of the Common Core--and a clarifying example (http://goo.gl/1nhpHs)
+    * Actually, It Is About the Technology (http://goo.gl/BE79FJ)
 * Tools
-    * TaskStream (\url{https://www.taskstream.com/})
+    * Padlet (https://padlet.com/)
+    * ScreenChomp (http://www.techsmith.com/screenchomp.html)
+* Performances
+    * 
