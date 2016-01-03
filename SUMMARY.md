@@ -14,8 +14,8 @@
    * [Curricular Units and Culminating Performances](curricular_units_and_culminating_performances.md)
    * [Performance Score Breakdown](performance_score_breakdown.md)
 * Course Schedule
-   * [Unit 0](unit_0.md)
    * [Schedule Summary](schedule_summary.md)
+   * [Unit 0](unit_0.md)
 * Appendix
    * Fairmont State University Policies
    * Digital Tool Passwords
