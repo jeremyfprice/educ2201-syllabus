@@ -1,12 +1,10 @@
 # Unit 1: Communicating the Role of Technology in Education
 
-## Week of \weekone
+## Week of `weektwo`
 
 * Priming Questions
-    * What are some of the rules of the "program" for "doing school"?
-    * Should an effort be made to "deprogram" students from "doing school"?
-    * What does the author mean by "surprise," and why is surprise important for learning?
-    * Which components of a reflective classroom have you seen?
+    * According to Grant Wiggins, what are the differences between an argument and a persuasive essay?
+    * According to John Spencer, how is it about the technology?
 * Readings
     * How Deprogramming Kids From How To Do School Could Improve Learning (\url{http://goo.gl/pnkkRM})
     * Surprise Journal: Notice the Unexpected (\url{http://goo.gl/h2ESqJ})
