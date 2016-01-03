@@ -12,6 +12,7 @@
    * [Reflection Write-Ups](reflection_write-ups.md)
    * [Curricular Units and Culminating Performances](curricular_units_and_culminating_performances.md)
    * [Performance Score Breakdown](performance_score_breakdown.md)
+   * Seeing Learning Build with Badges
 * Course Schedule
    * Unit 0
    * Summary
