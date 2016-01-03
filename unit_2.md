@@ -3,13 +3,15 @@
 ## Week of `weekfour`
 
 * Priming Questions
-    * According to Grant Wiggins, what are the differences between an argument and a persuasive essay?
-    * According to John Spencer, how is it about the technology?
+    * What is the ultimate goal of Universal Design for Learning?
+    * What are the different "modes" according to UDL?
+    * What examples of these different modes have you seen in your own educational career?
 * Readings
-    * Argument—the Core of the Common Core--and a clarifying example (http://goo.gl/1nhpHs)
-    * Actually, It Is About the Technology (http://goo.gl/BE79FJ)
+    * What Is Universal Design for Learning? (http://goo.gl/V9YHNw)
+    * UDL At A Glance Video (http://goo.gl/1xhgQh)
+    * UDL Questions & Answers (http://goo.gl/watsXV)
 * Tools
-    * Padlet (https://padlet.com/)
-    * ScreenChomp (http://www.techsmith.com/screenchomp.html)
+    * Socrative (http://b.socrative.com/login/student/)s
 * Performances
     * Syllabus "Quiz" Due Monday, August 24
+
