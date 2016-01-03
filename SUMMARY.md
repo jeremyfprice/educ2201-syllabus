@@ -7,4 +7,5 @@
    * [Universal Learning](universal_learning.md)
 * [Performances of Understanding](performances_of_understanding.md)
    * [What are Performances of Understanding?](what_are_performances_of_understanding.md)
+   * Become a Scholar by Building Your Metacognitive Skills
 
