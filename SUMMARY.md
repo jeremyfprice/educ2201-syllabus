@@ -16,7 +16,7 @@
 * Course Schedule
    * [Schedule Summary](schedule_summary.md)
    * [Unit 0](unit_0.md)
-   * Unit 1
+   * [Unit 1](unit_1.md)
    * Unit 2
    * Unit 3
    * Unit 4
