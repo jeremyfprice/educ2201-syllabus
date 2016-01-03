@@ -13,4 +13,5 @@
 * Course Schedule
    * Unit 0
 * Appendix
+   * Fairmont State University Policies
 
