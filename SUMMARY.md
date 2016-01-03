@@ -14,4 +14,5 @@
    * Unit 0
 * Appendix
    * Fairmont State University Policies
+   * Digital Tool Passwords
 
