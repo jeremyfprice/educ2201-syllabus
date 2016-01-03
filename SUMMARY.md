@@ -15,7 +15,7 @@
    * [Performance Score Breakdown](performance_score_breakdown.md)
 * Course Schedule
    * [Unit 0](unit_0.md)
-   * Summary
+   * [Summary](summary.md)
 * Appendix
    * Fairmont State University Policies
    * Digital Tool Passwords
