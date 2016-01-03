@@ -3,10 +3,11 @@
 ## Week of \weekone
 
 ### Priming Questions
-    * What are some of the rules of the "program" for "doing school"?
-    * Should an effort be made to "deprogram" students from "doing school"?
-    * What does the author mean by "surprise," and why is surprise important for learning?
-    * Which components of a reflective classroom have you seen?
+* What are some of the rules of the "program" for "doing school"?
+* Should an effort be made to "deprogram" students from "doing school"?
+* What does the author mean by "surprise," and why is surprise important for learning?
+* Which components of a reflective classroom have you seen?
+    
 ### Readings
 * How Deprogramming Kids From How To Do School Could Improve Learning (http://goo.gl/pnkkRM)
 * Surprise Journal: Notice the Unexpected (http://goo.gl/h2ESqJ)
