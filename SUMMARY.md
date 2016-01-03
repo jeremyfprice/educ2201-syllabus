@@ -13,6 +13,7 @@
    * [Curricular Units and Culminating Performances](curricular_units_and_culminating_performances.md)
 * Course Schedule
    * Unit 0
+   * Summary
 * Appendix
    * Fairmont State University Policies
    * Digital Tool Passwords
