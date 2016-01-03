@@ -4,7 +4,6 @@
 * [Course Contract](course_contract.md)
 * [Becoming a Teaching Superhero](becoming_a_teaching_superhero.md)
 * [Course Practices and Routines](course_practices_and_routines.md)
-   * [Maintain an Even Pace by Submitting Your Work](maintain_an_even_pace_by_submitting_your_work.md)
    * [Keeping the Learning Going by Reviewing Your Feedback](keeping_the_learning_going_by_reviewing_your_feedb.md)
    * [In-Class Practices and Expectations](in-class_practices_and_expectations.md)
    * [Performance Expectations](performance_expectations.md)
