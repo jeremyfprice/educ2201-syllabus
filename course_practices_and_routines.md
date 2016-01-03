@@ -15,6 +15,8 @@ Being present is important to success in this class. Attendance will be taken at
 
 ## Maintain an Even Pace by Submitting Your Work
 
+
+
 | Time Late | Consequence |
 |-----------|-------------|
 | 1-24 Hours | 5% deduction off performance score |
