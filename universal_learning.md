@@ -1,5 +1,0 @@
-# A Commitment to Universal Learning
-
-*I am committed to the principle of universal learning.* This means that our classroom, our virtual spaces, our practices, and our interactions be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning.
-
-Any student with particular needs should contact the coordinator of Disability Services at the start of the semester. Services are available to any student, full or part-time, who has a need because of a [documented] disability.The coordinator of Disability Services can be reached at 304.367.4686 or 800.641.5678 Ext. 8. It is the student's responsibility to register for services with the coordinator of students with disabilities and to provide any necessary documentation to verify a disability or the need for accommodations.  You and I can work out the details of any accommodations for this course.
