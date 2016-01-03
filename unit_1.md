@@ -17,11 +17,11 @@
 ## Week of `weekthree`
 
 * Priming Questions
-    * According to Grant Wiggins, what are the differences between an argument and a persuasive essay?
-    * According to John Spencer, how is it about the technology?
+    * According to Tom Whitby, what are the differences between *then* and *now*?
+    * What is the advice Bill Ferriter gives to help make students more engaged in learning with technology?
 * Readings
-    * Argument—the Core of the Common Core--and a clarifying example (http://goo.gl/1nhpHs)
-    * Actually, It Is About the Technology (http://goo.gl/BE79FJ)
+    * The Longer View: EdTech and 21st-Century Education (http://goo.gl/iuJk59)
+    * Are Kids Really Motivated by Technology? (http://goo.gl/s3orWi)
 * Tools
     * Padlet (https://padlet.com/)
     * ScreenChomp (http://www.techsmith.com/screenchomp.html)
