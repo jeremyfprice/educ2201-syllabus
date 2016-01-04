@@ -1,4 +1,4 @@
 # Course Schedule
 
-> **Info** ~ Image ~
+~ Image ~
 
