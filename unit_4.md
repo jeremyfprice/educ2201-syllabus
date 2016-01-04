@@ -31,5 +31,8 @@
 
 ## Week of `weekfourteen`
 
+**Focus and Project Time**
 
 ## Week of `weekfifteen`
+
+**Focus and Project Time**
