@@ -60,8 +60,9 @@
 ## Week of `weekeight`
 
 ### Priming Questions
-* According to Carol Dweck, why are the two mindsets--fixed and growth--important?
-* What are times that *you* have taken on a fixed mindset? A growth mindset?
+* According to the authors, what are the benefits of students becoming digital authors?
+* According to the authors, why is it important for students to use technology in school?
+* What does it mean to write purposefully?
 
 ### Readings
 * Mindsets: How to Motivate Students (And Yourself) (http://goo.gl/N997iN)
