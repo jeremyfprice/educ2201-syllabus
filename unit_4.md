@@ -17,6 +17,16 @@
 
 ## Week of `weekthirteen`
 
+### Priming Questions
+* How do Performances of Understanding help the learning process?
+* What are the different ways a teacher can use scaffolding in a WebQuest?
+
+### Readings
+* What are Performances of Understanding (http://goo.gl/Om1hT1)
+* Using the "Zone" to Help Reach Every Learner (http://goo.gl/KCigdq)
+24 Assessments That Don't Suck (http://goo.gl/Qzu8Hv)
+
+
 
 ## Week of `weekfourteen`
 
