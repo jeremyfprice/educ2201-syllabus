@@ -3,14 +3,27 @@
 ## Week of `weekten`
 
 ### Priming Questions
-* What is the ultimate goal of Universal Design for Learning?
-* What are the different "modes" according to UDL?
-* What examples of these different modes have you seen in your own educational career?
+* What is a WebQuest?
+* What can a student learn from engaging in a WebQuest?
 
 ### Readings
-* What Is Universal Design for Learning? (http://goo.gl/V9YHNw)
-* UDL At A Glance Video (http://goo.gl/1xhgQh)
-* UDL Questions & Answers (http://goo.gl/watsXV)
+* *Exploring the Many Sides of Diversity* WebQuest ( http://bit.ly/
+webquest-diversity)
+* What is a WebQuest? (http://goo.gl/M9HDsK)
+* What are the Essential Parts of a WebQuest? (http://goo.gl/737kms)
+* What Kinds of Topics Lend Themselves to WebQuests? (http://goo.gl/ZrD7r4)
 
 ### Tools
-* Socrative (http://b.socrative.com/login/student/)
+* See the *Exploring the Many Sides of Diversity* WebQuest ( http://bit.ly/
+webquest-diversity)
+
+## Week of `weekeleven`
+
+### Tools
+
+* See the *Exploring the Many Sides of Diversity* WebQuest ( http://bit.ly/
+webquest-diversity)
+
+### Performances
+* Diversity Poster PDF for Printing Due by Friday, October 23
+* Diversity Poster Culminating Performance Due by Friday, October 30
