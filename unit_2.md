@@ -44,3 +44,16 @@
 * Storyboard That! (https://www.storyboardthat.com/)
 * UDL BookBuilder (http://bookbuilder.cast.org/)
 
+## Week of `weekseven`
+
+### Priming Questions
+* What are the four Reciprocal Teaching Strategies?
+* What do the Reciprocal Teaching Strategies do for learners?
+
+### Readings
+* Reciprocal Teaching Strategies (http://goo.gl/pIk8XA)
+
+### Tools
+* Storyboard That! (https://www.storyboardthat.com/)
+* UDL BookBuilder (http://bookbuilder.cast.org/)
+
