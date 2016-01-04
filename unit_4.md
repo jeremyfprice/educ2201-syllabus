@@ -13,4 +13,12 @@
 * What are Understanding Goals? (http://goo.gl/qapL2r)
 
 ### Tools
-* Socrative (http://b.socrative.com/login/student/)
+* Prezi (https://www.prezi.com/)
+
+## Week of `weekthirteen`
+
+
+## Week of `weekfourteen`
+
+
+## Week of `weekfifteen`
