@@ -65,8 +65,7 @@
 * What does it mean to write purposefully?
 
 ### Readings
-* Mindsets: How to Motivate Students (And Yourself) (http://goo.gl/N997iN)
-* The Power of Believing You Can Improve (http://goo.gl/ADvfw4)
+* Creating Digital Authors (http://goo.gl/nTCziC)
 
 ### Tools
 * Storyboard That! (https://www.storyboardthat.com/)
