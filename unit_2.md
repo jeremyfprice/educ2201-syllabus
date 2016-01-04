@@ -37,9 +37,8 @@
 * What are times that *you* have taken on a fixed mindset? A growth mindset?
 
 ### Readings
-* What Is Universal Design for Learning? (http://goo.gl/V9YHNw)
-* UDL At A Glance Video (http://goo.gl/1xhgQh)
-* UDL Questions & Answers (http://goo.gl/watsXV)
+* Mindsets: How to Motivate Students (And Yourself) (http://goo.gl/N997iN)
+* The Power of Believing You Can Improve (http://goo.gl/ADvfw4)
 
 ### Tools
 * Socrative (http://b.socrative.com/login/student/)s
