@@ -53,7 +53,20 @@
 ### Readings
 * Reciprocal Teaching Strategies (http://goo.gl/pIk8XA)
 
+### Performances
+* UDL Book Outline Intermediate Performance Due by Monday, September 23
+* UDL Book Storyboard Intermediate Performance Due by Friday, September 25
+
+## Week of `weekeight`
+
+### Priming Questions
+* According to Carol Dweck, why are the two mindsets--fixed and growth--important?
+* What are times that *you* have taken on a fixed mindset? A growth mindset?
+
+### Readings
+* Mindsets: How to Motivate Students (And Yourself) (http://goo.gl/N997iN)
+* The Power of Believing You Can Improve (http://goo.gl/ADvfw4)
+
 ### Tools
 * Storyboard That! (https://www.storyboardthat.com/)
 * UDL BookBuilder (http://bookbuilder.cast.org/)
-
