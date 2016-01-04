@@ -3,9 +3,9 @@
 ## Week of `weektwelve`
 
 ### Priming Questions
-* What is the ultimate goal of Universal Design for Learning?
-* What are the different "modes" according to UDL?
-* What examples of these different modes have you seen in your own educational career?
+* According to the authors, what does "understanding" mean?
+* How is this definition similar to and different from your own definition of understanding?
+* What do Generative Topics and Understanding Goals add to the teacher planning process?
 
 ### Readings
 * What Is Universal Design for Learning? (http://goo.gl/V9YHNw)
