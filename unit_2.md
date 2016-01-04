@@ -67,6 +67,5 @@
 ### Readings
 * Creating Digital Authors (http://goo.gl/nTCziC)
 
-### Tools
-* Storyboard That! (https://www.storyboardthat.com/)
-* UDL BookBuilder (http://bookbuilder.cast.org/)
+## Week of `weeknine`
+**Focus and Project Time**
