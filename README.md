@@ -17,7 +17,7 @@ Welcome to EDUC2201, Teaching with Technology. This document is the syllabus[^1]
 | Phone: | 304.333.3686 |
 | Hobbies: | Reading, Hiking, Coding, Gardening |
 
-*Psst:* **Email is the best way to contact me.**
+*Psst:* **Email is the best way to contact me.** <i class="icon-renren"></i>
 
 ###Visit me during my student drop-in hours:
 
