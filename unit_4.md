@@ -24,7 +24,7 @@
 ### Readings
 * What are Performances of Understanding (http://goo.gl/Om1hT1)
 * Using the "Zone" to Help Reach Every Learner (http://goo.gl/KCigdq)
-24 Assessments That Don't Suck (http://goo.gl/Qzu8Hv)
+* 24 Assessments That Don't Suck (http://goo.gl/Qzu8Hv)
 
 
 
