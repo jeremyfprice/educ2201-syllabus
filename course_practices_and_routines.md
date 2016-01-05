@@ -1,3 +1,3 @@
 # Course Practices and Routines
 
-~ Image ~
+<div align="center"><img src="frazz-mistakes.png" /></div>
