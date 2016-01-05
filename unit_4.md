@@ -42,6 +42,9 @@
 * Fishbowl
 
 ### Performances
-* Fishbowl Presentations on Wednesday, April 20
+* Fishbowl Presentations on Friday, April 29
 
-## Week of 
+## Week of May 2-6
+
+**Focus and Project Time**
+
