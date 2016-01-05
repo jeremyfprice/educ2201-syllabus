@@ -1,12 +1,5 @@
 /* CSS for website */
 
-@font-face
-    font-family: "ETBembo-webfont"
-    src: url("/presenter/font/et-bembo/webfont/roman-line-figures/etbembo-romanlf-webfont.eot")
-    src: url("/presenter/font/et-bembo/webfont/roman-line-figures/etbembo-romanlf-webfont.eot?#iefix") format("embedded-opentype"), url("/presenter/font/et-bembo/webfont/roman-line-figures/etbembo-romanlf-webfont.woff") format("woff"), url("/presenter/font/et-bembo/webfont/roman-line-figures/etbembo-romanlf-webfont.ttf") format("truetype"), url("/presenter/font/et-bembo/webfont/roman-line-figures/etbembo-romanlf-webfont.svg#etbemboromanosf") format("svg")
-    font-weight: normal
-    font-style: normal
-    
 body {
     font-family: "etbembo-romanlf-webfont.eot", serif !important;
     background: #000;
