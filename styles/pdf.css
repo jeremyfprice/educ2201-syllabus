@@ -1,8 +1,2 @@
 /* CSS for pdf */
 
-body * {
-    font-family: "./etbembo-romanlf-webfont.eot", serif !important;
-    size: 18px;
-    line-height: 1.34em;
-    letter-spacing: .03em;
-}
