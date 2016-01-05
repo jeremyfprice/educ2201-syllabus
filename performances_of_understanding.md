@@ -1,3 +1,3 @@
 # Performances of Understanding
 
-~ Image ~
+<div align="center"><img src="frazz-homework.png" /></div>
