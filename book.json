@@ -2,5 +2,8 @@
     "plugins": [
         "styles-sass"
     ],
+    "styles": {
+        "website": "styles/website.sass"
+    }
     "pluginsConfig": {}
 }
