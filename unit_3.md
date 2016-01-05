@@ -1,6 +1,8 @@
 # Unit 3: Exploring the Many Sides of Diversity
 
-## Week of `weekten`
+## Week of March 21-25
+
+<span style="background-color: #F3F315;">**GOOD FRIDAY/PURIM -- NO CLASSES FRIDAY MARCH 25**</span>
 
 ### Priming Questions
 * What is a WebQuest?
@@ -17,7 +19,7 @@ webquest-diversity)
 * See the *Exploring the Many Sides of Diversity* WebQuest ( http://bit.ly/
 webquest-diversity)
 
-## Week of `weekeleven`
+## Week of March 28-April 1
 
 ### Tools
 
