@@ -1,7 +1,7 @@
 /* CSS for website */
 
-body * {
-    font-family: "./etbembo-romanlf-webfont.eot", serif !important;
+body {
+    font-family: "./etbembo-romanlf-webfont.eot", serif;
     size: 18px;
     line-height: 1.34em;
     letter-spacing: .03em;
