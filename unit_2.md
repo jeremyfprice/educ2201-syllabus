@@ -68,4 +68,5 @@
 * Creating Digital Authors (http://goo.gl/nTCziC)
 
 ## Week of March 14-18
-**Focus and Project Time**
+
+<span style="background-color: #F3F315;">**SPRING BREAK -- NO CLASSES**</span>
