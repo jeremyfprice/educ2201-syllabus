@@ -1,6 +1,6 @@
 # Unit 4: The Quest to Build a WebQuest
 
-## Week of `weektwelve`
+## Week of April 4-8
 
 ### Priming Questions
 * According to the authors, what does "understanding" mean?
@@ -15,7 +15,7 @@
 ### Tools
 * Prezi (https://www.prezi.com/)
 
-## Week of `weekthirteen`
+## Week of April 11-15
 
 ### Priming Questions
 * How do Performances of Understanding help the learning process?
@@ -29,10 +29,15 @@
 ### Tools
 * Google Sites (https://sites.google.com/)
 
-## Week of `weekfourteen`
+## Week of April 18-22
 
-**Focus and Project Time**
+### Readings
+* Effective Presentations
+* Fishbowl
 
-## Week of `weekfifteen`
+### Performances
+* Fishbowl Presentations on Wednesday, April 20
+
+## Week of April 25-29
 
 **Focus and Project Time**
