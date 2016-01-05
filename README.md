@@ -4,7 +4,7 @@ Welcome to EDUC2201, Teaching with Technology. This document is the syllabus[^1]
 
 {% sidenode num="1" %}
 see <a href="www.baidu.com">www.baidu.com</a>
-{% endsidenod %}
+{% endsidenode %}
 
 ----
 
