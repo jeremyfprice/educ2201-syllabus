@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "tufte"
+        "tufte",
+        "styles-sass"
     ],
     "pluginsConfig": {}
 }
