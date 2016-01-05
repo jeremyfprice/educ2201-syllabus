@@ -1,6 +1,6 @@
 # Unit 1: Communicating the Role of Technology in Education
 
-## Week of `weektwo`
+## Week of January 25-29
 
 ### Priming Questions
 * According to Grant Wiggins, what are the differences between an argument and a persuasive essay?
@@ -14,7 +14,7 @@
 * Padlet (https://padlet.com/)
 * ScreenChomp (http://www.techsmith.com/screenchomp.html)
 
-## Week of `weekthree`
+## Week of February 1-5
 
 ### Priming Questions
 * According to Tom Whitby, what are the differences between *then* and *now*?
