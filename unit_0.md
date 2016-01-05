@@ -1,6 +1,6 @@
 # Unit 0: Getting Situated and Started
 
-## Week of \weekone
+## Week of January 18-22
 
 ### Priming Questions
 * What are some of the rules of the "program" for "doing school"?
