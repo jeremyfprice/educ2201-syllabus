@@ -13,7 +13,7 @@
    * [Seeing Learning Build with Badges](seeing_learning_build_with_badges.md)
    * [Curricular Units and Culminating Performances](curricular_units_and_culminating_performances.md)
    * [Performance Score Breakdown](performance_score_breakdown.md)
-* Course Schedule
+* [Course Schedule](course_schedule.md)
    * [Schedule Summary](schedule-summary.md)
    * [Unit 0](unit_0.md)
    * [Unit 1](unit_1.md)
