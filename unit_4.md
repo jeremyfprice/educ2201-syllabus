@@ -31,6 +31,12 @@
 
 ## Week of April 18-22
 
+**NO CLASS FRIDAY APRIL 22 (PASSOVER)**
+
+**Focus and Project Time**
+
+## Week of April 25-29
+
 ### Readings
 * Effective Presentations
 * Fishbowl
@@ -38,6 +44,4 @@
 ### Performances
 * Fishbowl Presentations on Wednesday, April 20
 
-## Week of April 25-29
-
-**Focus and Project Time**
+## Week of 
