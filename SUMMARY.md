@@ -20,7 +20,7 @@
    * [Unit 2](unit_2.md)
    * [Unit 3](unit_3.md)
    * [Unit 4](unit_4.md)
-* Appendix
+* [Appendix](appendix.md)
    * [Fairmont State School of Education Conceptual Framework](fairmont_state_teacher_education_framework.md)
    * [Fairmont State University Policies](fairmont_state_university_policies.md)
    * [Digital Tool Passwords](digital_tool_passwords.md)
