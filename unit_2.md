@@ -1,6 +1,6 @@
 # Unit 2: Creating an Online Book for All Learners
 
-## Week of February 8-12
+## Week of February 1-5
 
 ### Priming Questions
 * What is the ultimate goal of Universal Design for Learning?
@@ -15,7 +15,7 @@
 ### Tools
 * Socrative (http://b.socrative.com/login/student/)
 
-## Week of February 15-19
+## Week of February 8-12
 
 ### Priming Questions
 * What is the ultimate goal of Universal Design for Learning?
@@ -30,7 +30,7 @@
 ### Tools
 * Socrative (http://b.socrative.com/login/student/)s
 
-## Week of February 22-26
+## Week of February 15-19
 
 ### Priming Questions
 * According to Carol Dweck, why are the two mindsets--fixed and growth--important?
@@ -44,7 +44,7 @@
 * Storyboard That! (https://www.storyboardthat.com/)
 * UDL BookBuilder (http://bookbuilder.cast.org/)
 
-## Week of February 29-March 4
+## Week of February 22-26
 
 ### Priming Questions
 * What are the four Reciprocal Teaching Strategies?
@@ -57,7 +57,7 @@
 * UDL Book Outline Intermediate Performance Due by Monday, September 23
 * UDL Book Storyboard Intermediate Performance Due by Friday, September 25
 
-## Week of March 7-11
+## Week of February 29-March 4
 
 ### Priming Questions
 * According to the authors, what are the benefits of students becoming digital authors?
@@ -67,12 +67,9 @@
 ### Readings
 * Creating Digital Authors (http://goo.gl/nTCziC)
 
+## Week of March 7-11
+**FOCUS AND PROJECT TIME**
+
 ## Week of March 14-18
 
 <span style="background-color: #F3F315;">**SPRING BREAK -- NO CLASSES**</span>
-
-## Week of March 21-25
-
-<span style="background-color: #F3F315;">**SPRING BREAK -- NO CLASSES FRIDAY MARCH 25**</span>
-
-**FOCUS AND PROJECT TIME**
