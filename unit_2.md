@@ -70,3 +70,9 @@
 ## Week of March 14-18
 
 <span style="background-color: #F3F315;">**SPRING BREAK -- NO CLASSES**</span>
+
+## Week of March 21-25
+
+<span style="background-color: #F3F315;">**SPRING BREAK -- NO CLASSES FRIDAY MARCH 25**</span>
+
+**FOCUS AND PROJECT TIME**
