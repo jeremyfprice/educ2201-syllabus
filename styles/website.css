@@ -5,4 +5,7 @@ body {
     size: 18px;
     line-height: 1.34em;
     letter-spacing: .03em;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+
 }
