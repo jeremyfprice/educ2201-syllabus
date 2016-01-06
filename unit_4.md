@@ -39,10 +39,12 @@
 
 ### Readings
 * Effective Presentations
-* Fishbowl
+* https://www.teachingchannel.org/videos/reflection-on-student-work-ntn
+* http://www.nsrfharmony.org/system/files/protocols/tuning_0.pdf
+* http://www.lasw.org/Tuning_description.html
 
 ### Performances
-* Fishbowl Presentations on Friday, April 29
+* Tuning-Adult Constructivist Conferences on Friday, April 29
 
 ## Week of May 2-6
 
