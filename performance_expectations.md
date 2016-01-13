@@ -10,7 +10,7 @@ To maintain your momentum, it is important to keep up with the work and submit y
 
 If you are unable to complete your work by the posted due date, you may fill out a Late Performance Contract (http://bit.ly/2201-lpc) *before Pumpkin Hour of the posted due date*. Late Performance Contracts filled out after Pumpkin Hour will not be accepted.
 
-You are required to fill out this contract in its entirety. As part of filling this contract, you have two options: (1) scheduling a meeting with me to discuss any challenges you are having in completing the performance and getting the help that you need from me; or, (2) scheduling a new **firm** date by which you will complete the performance. *This new date CANNOT be rescheduled.** You will not receive any points for a performance submitted after this rescheduled date, but you will receive your earned badge. *Choose this rescheduled date very carefully.*
+You are required to fill out this contract in its entirety. As part of filling this contract, you have two options: (1) scheduling a meeting with me to discuss any challenges you are having in completing the performance and getting the help that you need from me; or, (2) scheduling a new **firm** date by which you will complete the performance. *This new date CANNOT be rescheduled.* You will not receive any points for a performance submitted after this rescheduled date, but you will receive your earned badge. *Choose this rescheduled date very carefully.*
 
 If you do not fill out a Late Performance Contract, work may be turned in up to seven days late **with consequences:**
 
