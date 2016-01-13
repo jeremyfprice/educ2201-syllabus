@@ -1,6 +1,6 @@
 # Unit 4: The Quest to Build a WebQuest
 
-## Week of `weektwelve`
+## Week of April 4-8
 
 ### Priming Questions
 * According to the authors, what does "understanding" mean?
@@ -15,7 +15,7 @@
 ### Tools
 * Prezi (https://www.prezi.com/)
 
-## Week of `weekthirteen`
+## Week of April 11-15
 
 ### Priming Questions
 * How do Performances of Understanding help the learning process?
@@ -24,15 +24,30 @@
 ### Readings
 * What are Performances of Understanding (http://goo.gl/Om1hT1)
 * Using the "Zone" to Help Reach Every Learner (http://goo.gl/KCigdq)
+* A Project-Based Learning Cheat Sheet For Authentic Learning (http://bit.ly/22KF0h7)
 * 24 Assessments That Don't Suck (http://goo.gl/Qzu8Hv)
 
 ### Tools
 * Google Sites (https://sites.google.com/)
 
-## Week of `weekfourteen`
+## Week of April 18-22
+
+**NO CLASS FRIDAY APRIL 22 (PASSOVER)**
 
 **Focus and Project Time**
 
-## Week of `weekfifteen`
+## Week of April 25-29
+
+### Readings
+* Effective Presentations
+* https://www.teachingchannel.org/videos/reflection-on-student-work-ntn
+* http://www.nsrfharmony.org/system/files/protocols/tuning_0.pdf
+* http://www.lasw.org/Tuning_description.html
+
+### Performances
+* Tuning-Adult Constructivist Conferences on Friday, April 29
+
+## Week of May 2-6
 
 **Focus and Project Time**
+

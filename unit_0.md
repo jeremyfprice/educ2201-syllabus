@@ -1,6 +1,8 @@
 # Unit 0: Getting Situated and Started
 
-## Week of \weekone
+## Week of January 18-22
+
+<span style="background-color: #F3F315;">**MARTIN LUTHER KING JR DAY -- NO CLASSES JANUARY 18**</span>
 
 ### Priming Questions
 * What are some of the rules of the "program" for "doing school"?

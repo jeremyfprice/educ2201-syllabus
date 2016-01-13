@@ -1,4 +1,4 @@
-# Intermediate and Culminating Performances of Understanding Due Dates}
+# Intermediate and Culminating Performances of Understanding Due Dates
 
 | *Unit* | *Performance* | *Due Date* |
 |:------:|---------------|-----------:|
