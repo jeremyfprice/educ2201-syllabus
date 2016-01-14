@@ -6,4 +6,5 @@ Keep in mind that **you earn your grade**. I do not "give" you a grade. As a tea
 |------|------|------|
 | blah | blah | blah |
 
+
 **900-1000 points is an A, 800-899 points is a B, 700-799 points is a C, 650-699 is a D, 649 or less is an F.**
