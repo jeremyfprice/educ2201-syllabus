@@ -52,7 +52,7 @@ As a way to engage in constructing digital learning environments and "get your f
 ### Intermediate Performances
 
 * *WebQuest Design Prezi:* XX points
-* *WebQuest Design Peer Consult* XX points
+* *WebQuest Design Peer Consult:* XX points
 
 ### Culminating Performance
 
