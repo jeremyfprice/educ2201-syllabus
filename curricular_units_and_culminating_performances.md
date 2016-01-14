@@ -2,17 +2,17 @@
 
 ## Intermediate and Culminating Performances of Understanding
 
-The Performances of Understanding[^1] are what you produce in each of the 5 units of the course. Each of these Performances are designed to not only help me see what you understand, but also to help you deepen your knowledge and develop your skills around the use of technology in teaching and learning. You will receive a \textsf{Project Package} at the beginning of each unit which will include more specifics about what I expect from you, including a copy of the rubric that I will be using to evaluate your work. In addition to the Culminating Performances themselves, you will engage in Intermediate Performances to help you get ready for the Culminating Performances.
+The Performances of Understanding[^1] are what you produce in each of the 5 units of the course. Each of these Performances are designed to not only help me see what you understand, but also to help you deepen your knowledge and develop your skills around the use of technology in teaching and learning. You will receive a Project Package at the beginning of each unit which will include more specifics about what I expect from you, including a copy of the rubric that I will be using to evaluate your work. In addition to the Culminating Performances themselves, you will engage in Intermediate Performances to help you get ready for the Culminating Performances.
 
 ## Unit 0: Getting Started and Situated
 
-The first week of class will be dedicated to helping everyone get into the flow of the course. We will be establishing expectations and practices for the semester. You will be completing an open-syllabus "quiz." This will allow you to get familiar with the syllabus, the expectations of the class and \texttt{TaskStream}.
+The first week of class will be dedicated to helping everyone get into the flow of the course. We will be establishing expectations and practices for the semester. You will be completing an open-syllabus "quiz." This will allow you to get familiar with the syllabus, the expectations of the class and TaskStream.
 
 *Your Syllabus Quiz is worth 10 points.*
 
 ## Unit 1: Communicating the Role of Technology in Education
 
-This first unit will introduce you to the idea of technology in education and challenge you to consider why using technology to support learning is important. This unit is also structured to help you succeed on the Praxis Core Academic Skills for Educators Exam. The essay you will write is similar to the argumentative essay you will write for the Core Exam. I will be helping you through the writing process that you can then bring into your own classrooms to support your own students when you are a teacher. In addition to writing the essay, I will be requiring you to accomplish two other steps: \textit{take a draft of your paper to the Writing Center} and \textit{meet with me to discuss the feedback on your paper}. The Writing Center is an excellent free on-campus resource for you. In our meeting, I will help you make good use of the feedback on your essay and it will help us get to know each other better.
+This first unit will introduce you to the idea of technology in education and challenge you to consider why using technology to support learning is important. This unit is also structured to help you succeed on the Praxis Core Academic Skills for Educators Exam. The essay you will write is similar to the argumentative essay you will write for the Core Exam. I will be helping you through the writing process that you can then bring into your own classrooms to support your own students when you are a teacher. In addition to *writing* the essay, I will be requiring that you take a draft of your paper to the Writing Center. The Writing Center is an excellent free on-campus resource for you.
 
 ### Intermediate Performances
 
@@ -56,7 +56,7 @@ As a way to engage in constructing digital learning environments and "get your f
 
 ### Culminating Performance
 
-*WebQuest Design: * XX Points
+* *WebQuest Design:* XX Points
 
 Your TfU Map Intermediate Performance is worth 100 points. Your WebQuest Culminating Performance is worth 180 points.
 
