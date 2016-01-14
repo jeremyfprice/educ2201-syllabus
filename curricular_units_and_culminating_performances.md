@@ -61,7 +61,3 @@ As a way to engage in constructing digital learning environments and "get your f
 Your TfU Map Intermediate Performance is worth 100 points. Your WebQuest Culminating Performance is worth 180 points.
 
 [^1]. Performances of Understanding are a concept from the Teaching for Understanding framework. You will be learning about this framework in depth during Unit 4 (The Quest to Build a WebQuest).
-
-\section{Course Point Breakdown}
-
-\marginnote{900-1000 points is an A, 800-899 points is a B, 700-799 points is a C, 650-699 is a D, 649 or less is an F.}Keep in mind that \emph{\textbf{you earn your grade}}. I do not "give" you a grade. As a teacher, I place a great deal of emphasis on becoming aware of learning processes and progress. \emph{This is a practice that is important to bring to your own students,} so I want to give you a head start.
