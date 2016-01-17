@@ -45,9 +45,12 @@
 * http://www.lasw.org/Tuning_description.html
 
 ### Performances
-* Tuning-Adult Constructivist Conferences on Friday, April 29
+* Tuning-Adult Constructivist Conferences on Wednesday, April 27
 
 ## Week of May 2-6
 
 **Focus and Project Time**
 
+### Performances
+
+* Blah

@@ -12,7 +12,8 @@ Keep in mind that **you earn your grade**. I do not "give" you a grade. As a tea
 | **2** | **Diversity WebQuest** | **100** |
 | 3 | Reciprocal Teaching Annotations | 25 |
 | 3 | UDL Book Analysis | 25 |
-| 3 | UDL Book Outline | 50 |
+| 3 | UDL Book Outline | 25 |
+| 3 | UDL Storyboard | 25 |
 | **3** | **UDL Book** | **150** |
 | 4 | WebQuest Design Prezi | 75 |
 | 4 | WebQuest Design Peer Consult | 25 |

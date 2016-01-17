@@ -1,75 +1,29 @@
-# Unit 2: Creating an Online Book for All Learners
-
-## Week of February 1-5
-
-### Priming Questions
-* What is the ultimate goal of Universal Design for Learning?
-* What are the different "modes" according to UDL?
-* What examples of these different modes have you seen in your own educational career?
-
-### Readings
-* What Is Universal Design for Learning? (http://goo.gl/V9YHNw)
-* UDL At A Glance Video (http://goo.gl/1xhgQh)
-* UDL Questions & Answers (http://goo.gl/watsXV)
-
-### Tools
-* Socrative (http://b.socrative.com/login/student/)
-
-## Week of February 8-12
-
-### Priming Questions
-* What is the ultimate goal of Universal Design for Learning?
-* What are the different "modes" according to UDL?
-* What examples of these different modes have you seen in your own educational career?
-
-### Readings
-* What Is Universal Design for Learning? (http://goo.gl/V9YHNw)
-* UDL At A Glance Video (http://goo.gl/1xhgQh)
-* UDL Questions & Answers (http://goo.gl/watsXV)
-
-### Tools
-* Socrative (http://b.socrative.com/login/student/)s
+# Unit 3: Exploring the Many Sides of Diversity
 
 ## Week of February 15-19
 
 ### Priming Questions
-* According to Carol Dweck, why are the two mindsets--fixed and growth--important?
-* What are times that *you* have taken on a fixed mindset? A growth mindset?
+* What is a WebQuest?
+* What can a student learn from engaging in a WebQuest?
 
 ### Readings
-* Mindsets: How to Motivate Students (And Yourself) (http://goo.gl/N997iN)
-* The Power of Believing You Can Improve (http://goo.gl/ADvfw4)
+* *Exploring the Many Sides of Diversity* WebQuest ( http://bit.ly/
+webquest-diversity)
+* What is a WebQuest? (http://goo.gl/M9HDsK)
+* What are the Essential Parts of a WebQuest? (http://goo.gl/737kms)
+* What Kinds of Topics Lend Themselves to WebQuests? (http://goo.gl/ZrD7r4)
 
 ### Tools
-* Storyboard That! (https://www.storyboardthat.com/)
-* UDL BookBuilder (http://bookbuilder.cast.org/)
+* See the *Exploring the Many Sides of Diversity* WebQuest ( http://bit.ly/
+webquest-diversity)
 
 ## Week of February 22-26
 
-### Priming Questions
-* What are the four Reciprocal Teaching Strategies?
-* What do the Reciprocal Teaching Strategies do for learners?
+### Tools
 
-### Readings
-* Reciprocal Teaching Strategies (http://goo.gl/pIk8XA)
+* See the *Exploring the Many Sides of Diversity* WebQuest ( http://bit.ly/
+webquest-diversity)
 
 ### Performances
-* UDL Book Outline Intermediate Performance Due by Monday, September 23
-* UDL Book Storyboard Intermediate Performance Due by Friday, September 25
-
-## Week of February 29-March 4
-
-### Priming Questions
-* According to the authors, what are the benefits of students becoming digital authors?
-* According to the authors, why is it important for students to use technology in school?
-* What does it mean to write purposefully?
-
-### Readings
-* Creating Digital Authors (http://goo.gl/nTCziC)
-
-## Week of March 7-11
-**FOCUS AND PROJECT TIME**
-
-## Week of March 14-18
-
-<span style="background-color: #F3F315;">**SPRING BREAK -- NO CLASSES**</span>
+* Diversity Poster PDF for Printing Due by Friday, October 23
+* Diversity Poster Culminating Performance Due by Friday, October 30
