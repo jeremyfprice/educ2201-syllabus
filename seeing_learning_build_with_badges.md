@@ -17,11 +17,6 @@ Based on the quality of your work submitted, you will earn badges in each area o
 
 Each culminating performances requires that you earn *Scout Level or above* in one or more area. If you do not earn a necessary Scout Level badge, you will have one week (based on class policy) to resubmit your work and earn the badge as well as change your grade. After one week, you can still earn an appropriate badge. **I will give you feedback and comments through TaskStream to help you revise and improve your work.** Use this feedback.
 
-"One-Off" badges
-* *Media Design:* Blah
-* *Team Leadership:* Blah
-* *Technology Integration:*
-
 The standard schedule for submitting assignments applies, that is, *you are required to have earned the required badges by the time you submit your culminating performance.* Earning required badges *after* you submit your culminating performance will affect your score as if the assignment was submitted late.
 
 The following table provides an outline of the required and earned badges for each performance in the course (the Culminating Performance for each unit is **bold**).
@@ -32,12 +27,12 @@ The following table provides an outline of the required and earned badges for ea
 | 1     |                                                                                                      | Learning Experience with Technology ScreenChomp                | Reflection                                                                                                                                                                    |
 | 1     |                                                                                                      | Is Yoda a Good Teacher or a Bad Teacher?                       | Reflection, Writing Conventions                                                                                                                               |
 | 1     | Reflection, Writing Conventions                        | **What Does Learning and Teaching with Technology Look Like?** | Reflection, Writing Conventions                                                                                                                |
-| 2     | Reflection, Writing Conventions                        | **Diversity WebQuest**                                         | Reflection, Writing Conventions, Media Design, Team Leader                                                                                     |
+| 2     | Reflection, Writing Conventions                        | **Diversity WebQuest**                                         | Reflection, Writing Conventions, Team Leader                                                                                     |
 | 3     |                                                                                                      | Reciprocal Teaching Annotations                                | Scaffolding                                                                                                                                                        |
 | 3     |                                                                                                      | UDL Book Analysis                                              | Scaffolding                                                                                                                         |
 | 3     |                                                                                                      | UDL Book Outline                                               | Scaffolding                                                                                                                         |
-| 3     | Scaffolding, Reflection                                | **UDL Book**                                                   | Scaffolding, Reflection, Writing Conventions, Media Design                     |
-| 4     |                                                                                                      | WebQuest Design Prezi                                          | Design, Technology Integration                                                                                                                                   |
+| 3     | Scaffolding, Reflection                                | **UDL Book**                                                   | Scaffolding, Reflection, Writing Conventions                     |
+| 4     |                                                                                                      | WebQuest Design Prezi                                          | Design                                                                                                                                   |
 | 4     |                                                                                                      | WebQuest Design Peer Consult                                   | Team Leader                                                                                                                                                                                         |
-| 4     | Scaffolding, Reflection, Design | **WebQuest Design**                                            | Reflection, Design, Scaffolding, Writing Conventions, Media Design, Technology Integration |
+| 4     | Scaffolding, Reflection, Design | **WebQuest Design**                                            | Reflection, Design, Scaffolding, Writing Conventions |
 
