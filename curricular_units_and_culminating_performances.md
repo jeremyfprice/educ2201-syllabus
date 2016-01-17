@@ -8,7 +8,7 @@ The Performances of Understanding[^1] are what you produce in each of the 5 unit
 
 The first week of class will be dedicated to helping everyone get into the flow of the course. We will be establishing expectations and practices for the semester. You will be completing an open-syllabus "quiz." This will allow you to get familiar with the syllabus, the expectations of the class and TaskStream.
 
-*Your Syllabus Quiz is worth 10 points.*
+*Your Syllabus Quiz is worth 25 points.*
 
 ## Unit 1: Communicating the Role of Technology in Education
 
@@ -16,13 +16,13 @@ This first unit will introduce you to the idea of technology in education and ch
 
 ### Intermediate Performances
 
-* *Defining Learning, Teaching, and Technology:* XX points
-* *Learning Experience with Technology ScreenChomp:* XX points
-* *Is Yoda a Good Teacher or a Bad Teacher?:* XX points
+* *Defining Learning, Teaching, and Technology:* 25 points
+* *Learning Experience with Technology ScreenChomp:* 25 points
+* *Is Yoda a Good Teacher or a Bad Teacher?:* 50 points
 
 ### Culminating Performance
 
-*What Does Learning and Teaching with Technology Look Like?* XX points
+*What Does Learning and Teaching with Technology Look Like?* 50 points
 
 ## Unit 2: Exploring the Many Sides of Diversity
 
