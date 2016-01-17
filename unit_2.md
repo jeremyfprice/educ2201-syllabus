@@ -1,4 +1,4 @@
-# Unit 3: Exploring the Many Sides of Diversity
+# Unit 2: Exploring the Many Sides of Diversity WebQuest
 
 ## Week of February 15-19
 
