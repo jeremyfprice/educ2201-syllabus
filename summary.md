@@ -24,4 +24,3 @@
    * [Fairmont State School of Education Conceptual Framework](fairmont_state_teacher_education_framework.md)
    * [Fairmont State University Policies](fairmont_state_university_policies.md)
    * [Digital Tool Passwords](digital_tool_passwords.md)
-
