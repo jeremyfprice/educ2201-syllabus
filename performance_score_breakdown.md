@@ -4,7 +4,7 @@ Keep in mind that **you earn your grade**. I do not "give" you a grade. As a tea
 
 | Unit    | Performance | Possible Score |
 |:-------:|-------------|---------------:|
-| 0 | Syllabus "Quiz" | 25 |
+| **0** | **Syllabus "Quiz"** | **25** |
 | 1 | Defining Learning, Teaching, and Technology | 25 |
 | 1 | Learning Experience with Technology ScreenChomp | 25 |
 | 1 | Is Yoda a Good Teacher or a Bad Teacher? | 50 |
@@ -17,7 +17,7 @@ Keep in mind that **you earn your grade**. I do not "give" you a grade. As a tea
 | 4 | WebQuest Design Prezi | 75 |
 | 4 | WebQuest Design Peer Consult | 25 |
 | **4** | **WebQuest Design** | **175** |
-| ALL | Grit Score | 150 |
+| **ALL** | **Grit Score** | **150** |
 | **TOTAL** |           | **1000**       |
 
 

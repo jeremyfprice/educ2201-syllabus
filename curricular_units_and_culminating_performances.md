@@ -22,7 +22,7 @@ This first unit will introduce you to the idea of technology in education and ch
 
 ### Culminating Performance
 
-*What Does Learning and Teaching with Technology Look Like?* 50 points
+*What Does Learning and Teaching with Technology Look Like?* 100 points
 
 ## Unit 2: Exploring the Many Sides of Diversity
 
