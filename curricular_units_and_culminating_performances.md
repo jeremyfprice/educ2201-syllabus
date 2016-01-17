@@ -30,20 +30,21 @@ Fully understanding-and supporting-diversity in the classroom will help you beco
 
 ### Culminating Performance
 
-*Your Diversity Poster Culminating Performance is worth 90 points.*
+*Your Diversity Poster Culminating Performance* 100 points.
 
 ## Unit 3: Creating an Online Book for All Learners
 
 As a way to engage in digital authoring and inclusive digital practices, you will write an online book for high school or college students about a time when you felt like you persisted, belonged, or saw things in a new way in order to succeed in a learning (although not necessarily classroom) environment. Helping students persist, develop a sense of belonging, and seeing ideas or problems in new ways has been shown to support academic achievement; this unit will help you explore your own experiences as well as help to prepare you to impress the value of the same practices on your future students.
 
 ### Intermediate Performances
-* *Reciprocal Teaching Annotations:* XX points
-* *UDL Book Analysis:* XX points
-* *UDL Book Outline:* XX Points
+* *Reciprocal Teaching Annotations:* 25 points
+* *UDL Book Analysis:* 25 points
+* *UDL Book Outline:* 25 Points
+* *UDL Book Storyboard:* 25 Points
 
 ### Culminating Performance
 
-*UDL Book:* XX Points
+*UDL Book:* 150 Points
 
 ## Unit 4: The Quest to Build a WebQuest
 
@@ -51,13 +52,15 @@ As a way to engage in constructing digital learning environments and "get your f
 
 ### Intermediate Performances
 
-* *WebQuest Design Prezi:* XX points
-* *WebQuest Design Peer Consult:* XX points
+* *WebQuest Design Prezi:* 75 points
+* *WebQuest Design Peer Consult:* 25 points
 
 ### Culminating Performance
 
-* *WebQuest Design:* XX Points
+*WebQuest Design:* 175 Points
 
-Your TfU Map Intermediate Performance is worth 100 points. Your WebQuest Culminating Performance is worth 180 points.
+## Grit
+
+*Grittiness Score* 150 Points
 
 [^1]. Performances of Understanding are a concept from the Teaching for Understanding framework. You will be learning about this framework in depth during Unit 4 (The Quest to Build a WebQuest).
