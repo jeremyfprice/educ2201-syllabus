@@ -11,9 +11,9 @@ As a way to help you see how understandings and skills forged early in the cours
 
 Based on the quality of your work submitted, you will earn badges in each area of recognition according to three levels:
 
-* *Lookout:* You are just starting out on your journey as a learner in this class, and your work reflects beginning quality.
-* *Scout:* You are pushing yourself out of your learning comfort zone and taking risks and putting forth effort to learn from the course interactions and materials. Your works reflects intermediate quality.
-* *Explorer:* You are pushing yourself as a learner, and you are an explorer worthy of [Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt). You are not only taking risks and putting forth effort, but it also evident that you are charting, reflecting on, and learning from your course as a learner and future educator. Your work reflects excellent quality.
+* *Lookout:* You are just starting out on your journey as a learner in this class, and your work reflects beginning quality. This will show up as a "1" on TaskStream.
+* *Scout:* You are pushing yourself out of your learning comfort zone and taking risks and putting forth effort to learn from the course interactions and materials. Your works reflects intermediate quality. This will show up as a "2" on TaskStream.
+* *Explorer:* You are pushing yourself as a learner, and you are an explorer worthy of [Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt). You are not only taking risks and putting forth effort, but it also evident that you are charting, reflecting on, and learning from your course as a learner and future educator. Your work reflects excellent quality. This will show up as a "3" on TaskStream.
 
 Each culminating performances requires that you earn *Scout Level or above* in one or more area. If you do not earn a necessary Scout Level badge, you will have one week (based on class policy) to resubmit your work and earn the badge as well as change your grade. After one week, you can still earn an appropriate badge. **I will give you feedback and comments through TaskStream to help you revise and improve your work.** Use this feedback.
 
