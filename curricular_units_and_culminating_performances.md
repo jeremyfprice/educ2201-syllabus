@@ -61,6 +61,8 @@ As a way to engage in constructing digital learning environments and "get your f
 
 ## Grit
 
+Grit, as defined in the field of educational psychology, is defined as *"perseverance and passion for long-term goals"* (Duckworth, Peterson, Matthews, and Kelly, 2007, p. 1087). It is important to work intentionally to cultivate *grit* as disposition for success as a student in EDUC2201 and at Fairmont State University; it is also an important disposition for being an educator. As such, a portion of your final grade will reflect your observable "grittiness." I will assign your grit score based on perseverance, passion, consistency, and growth mindset. You will have the opportunity to complete a self-evaluation on TaskStream, and I will take your self-evaluation into consideration when assigning your final grit score.
+
 *Grittiness Score* 150 Points
 
 [^1]. Performances of Understanding are a concept from the Teaching for Understanding framework. You will be learning about this framework in depth during Unit 4 (The Quest to Build a WebQuest).
