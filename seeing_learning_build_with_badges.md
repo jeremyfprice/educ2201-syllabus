@@ -2,14 +2,15 @@
 
 One of the challenges of learning (and teaching) is recognizing that understanding and skills build on one another. You "get better" as you move forward and as you reflect and build on your work.
 
-As a way to help you see how understandings and skills forged early in the course and in each unit prepare you for performances later on, I will be awarding you badges based on your work. Many of the intermediate and culminating performances will earn you badges, including recognition for your skill in Reflection, Scaffolding, and Design:
+As a way to help you see how understandings and skills forged early in the course and in each unit prepare you for performances later on, I will be awarding you badges based on your work. Many of the intermediate and culminating performances will earn you badges, including recognition for your improving skills in Reflection, Scaffolding, Design, Writing, and Leadership:
 
-* *Reflection:* Personal Experience, Course Sources, Looking Ahead
-* *Scaffolding:* Universal Design for Learning, Reciprocal Teaching Strategies, Task Breakdown
-* *Design*: Alignment, Component, Activities
-* *Writing Conventions:* Blah
+* *Reflection:* Reflection is an essential practice for an educator. Reflection badges are awarded by demonstrating competence in reflection through your personal experience, making use of course readings, and planning ahead as to how you will use what you have learned.
+* *Scaffolding:* In order to support the range of learners that the educator encounters, it is important to provide scaffolding. Scaffolding badges are awarded based on demonstrating competence supporting learners through Universal Design for Learning, Reciprocal Teaching Strategies, and breaking tasks down into achievable steps.
+* *Design*: Designing educational environments is a critical practice for educators and a primary goal for this course.  Design badges are awarded based on demonstrating competence in aligning goals and activities, developing specific understanding goals or generative topics, or outlining educational activities.
+* *Writing Conventions:* Being able to express yourself through written words in a professional manner is important for your success not only as a future educator, but also as a college student. Writing Conventions badges are awarded based on demonstrating competence in adopting an academic tone and expressing your ideas clearly and with detail.
+* *Team Leader:* This is a "one-time" badge, and it is not required for submitting your work. However, I may grant this badge to a student who has clearly earned it. In addition, if you feel that a student in the class has earned this recognition, you may anonymously nominate a classmate at http://bit.ly/2201-team-leader.
 
-Based on the quality of your work submitted, you will earn badges in each area of recognition according to three levels:
+Based on the quality of your work submitted, you will earn badges in each area of recognition (with the exception of Team Leader) according to three levels:
 
 * *Lookout:* You are just starting out on your journey as a learner in this class, and your work reflects beginning quality. This will show up as a "1" on TaskStream.
 * *Scout:* You are pushing yourself out of your learning comfort zone and taking risks and putting forth effort to learn from the course interactions and materials. Your works reflects intermediate quality. This will show up as a "2" on TaskStream.
