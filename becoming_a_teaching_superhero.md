@@ -7,7 +7,7 @@ I want to help you to become teaching superheroes with technology. The children 
 
 *Throughlines*[^1] are the big ideas that we will be exploring and developing understandings around over the semester.
 
-~ Image ~
+<div align="center"><img src="throughlines.png" /></div>
 
 
 [^1]Using vocabulary of the profession is important and will help you communicate with your professors and colleagues in a precise and professional manner. We will therefore be using the ideas and language of the Teaching for Understanding (TfU) framework. According to TfU, *throughlines* "describe the most important understandings that students should develop during an entire course."
